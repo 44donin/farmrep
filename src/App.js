@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        This is the basic templete for our farmer repo
+        This is the basic templete for our farmer repository
     </div>
   );
 }
