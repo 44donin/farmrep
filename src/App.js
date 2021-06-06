@@ -6,6 +6,7 @@ function App() {
     <div className="App">
         This is the basic templete for our farmer repository
         saiteja made this change
+        git@github.com:44donin/farmrep.git
     </div>
   );
 }
