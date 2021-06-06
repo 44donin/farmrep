@@ -5,10 +5,6 @@ function App() {
   return (
     <div className="App">
         This is edited by Parameshwari
-        jslkfdjsafdj
-    sdfasdfjal;ksdfj
-    sd;fkljlkjfsajd
-    sdfsdfsljfdlks
 
     </div>
   );
