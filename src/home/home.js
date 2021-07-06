@@ -1,5 +1,5 @@
 import './home.css';
-import {Jumbotron} from 'react-bootstrap';
+import {Jumbotron} from 'react-bootstrap'
 import { Row, Col, Form, Button} from 'react-bootstrap';
 
 import React, { Component } from 'react';
@@ -40,7 +40,7 @@ class Home extends Component {
                                     />
                                 </Form.Group>
                                 <div class="text-center">
-                                <Button type="Submit" className="btn btn-info" >Login</Button>
+                                <Button type="Submit" className="btn-info" >Login</Button>
                                 </div>
                                 <hr/>
                             </Form>

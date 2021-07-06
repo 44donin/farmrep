@@ -2,6 +2,7 @@
   div {
     display: flex;
     flex-direction: column;
+    
   }
   
   h1 {
@@ -34,9 +35,24 @@
 }
 
 .form-box {
-    background-color: white;
-    box-sizing: border-box;
-    padding: 20px;
-    box-shadow: 0px 0px 15px -5px black;
+  background-color: bisque;
+  box-sizing: inherit;
+  padding: 3%;
+  box-shadow: 0px 0px 15px -5px black;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.text-center {
+  padding-top: 4%;
+  border-radius: 6%;
+}
+.btn-info {
+  border-radius: 6%;
+  background-image: radial-gradient(rgb(132, 214, 132),white);
+  border-style: none;
+  font-weight: bolder;
+  font-family: 'Courier New', Courier, monospace;
+
 }
 
